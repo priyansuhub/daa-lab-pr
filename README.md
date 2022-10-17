@@ -8,6 +8,8 @@
 
 - cd daa-lab-pr
 
+# For Linux machines!
+
 ## To compile
 
     npm run build
