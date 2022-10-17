@@ -31,120 +31,120 @@ do
     if [[ $Value == 1 ]]
     then
         echo "====CODE READING BEGINS===="
-        cat ../app/lab-one/searching.c
+        cat ./app/lab-one/searching.c
         echo "====EXECUTION BEGINS===="
-        ./lab-one/searching
+        ./out/lab-one/searching
     elif [[ $Value == 2 ]]
     then
         echo "====CODE READING BEGINS===="
-        cat ../app/lab-one/max-of-two-array.c
+        cat ./app/lab-one/max-of-two-array.c
         echo "====EXECUTION BEGINS===="
-        ./lab-one/max-of-two-array
+        ./out/lab-one/max-of-two-array
     elif [[ $Value == 3 ]]
     then
         echo "====CODE READING BEGINS===="
-        cat ../app/lab-one/bubble-sort.c
+        cat ./app/lab-one/bubble-sort.c
         echo "====EXECUTION BEGINS===="
-        ./lab-one/bubble-sort
+        ./out/lab-one/bubble-sort
     elif [[ $Value == 4 ]]
     then
         echo "====CODE READING BEGINS===="
-        cat ../app/lab-one/bst.c
+        cat ./app/lab-one/bst.c
         echo "====EXECUTION BEGINS===="
-        ./lab-one/bst
+        ./out/lab-one/bst
     elif [[ $Value == 5 ]]
     then
         echo "====CODE READING BEGINS===="
-        cat ../app/lab-two/gcd.c
+        cat ./app/lab-two/gcd.c
         echo "====EXECUTION BEGINS===="
-        ./lab-two/gcd
+        ./out/lab-two/gcd
     elif [[ $Value == 6 ]]
     then
         echo "====CODE READING BEGINS===="
-        cat ../app/lab-two/prime-number.c
+        cat ./app/lab-two/prime-number.c
         echo "====EXECUTION BEGINS===="
-        ./lab-two/prime-number
+        ./out/lab-two/prime-number
     elif [[ $Value == 7 ]]
     then
         echo "====CODE READING BEGINS===="
-        cat ../app/lab-three/csum.c
+        cat ./app/lab-three/csum.c
         echo "====EXECUTION BEGINS===="
-        ./lab-three/csum
+        ./out/lab-three/csum
     elif [[ $Value == 8 ]]
     then
         echo "====CODE READING BEGINS===="
-        cat ../app/lab-three/insertion-sort.c
+        cat ./app/lab-three/insertion-sort.c
         echo "====EXECUTION BEGINS===="
-        ./lab-three/insertion-sort
+        ./out/lab-three/insertion-sort
     elif [[ $Value == 9 ]]
     then
         echo "====CODE READING BEGINS===="
-        cat ../app/lab-three/sqrt.c
+        cat ./app/lab-three/sqrt.c
         echo "====EXECUTION BEGINS===="
-        ./lab-three/sqrt
+        ./out/lab-three/sqrt
     elif [[ $Value == 10 ]]
     then
         echo "====CODE READING BEGINS===="
-        cat ../app/lab-three/udf.c
+        cat ./app/lab-three/udf.c
         echo "====EXECUTION BEGINS===="
-        ./lab-three/udf
+        ./out/lab-three/udf
 
     elif [[ $Value == 11 ]]
     then
         echo "====CODE READING BEGINS===="
-        cat ../app/lab-four/binary-search.c
+        cat ./app/lab-four/binary-search.c
         echo "====EXECUTION BEGINS===="
-        ./lab-four/binary-search
+        ./out/lab-four/binary-search
 
     elif [[ $Value == 12 ]]
     then
         echo "====CODE READING BEGINS===="
-        cat ../app/lab-four/merge-sort.c
+        cat ./app/lab-four/merge-sort.c
         echo "====EXECUTION BEGINS===="
-        ./lab-four/merge-sort
+        ./out/lab-four/merge-sort
     elif [[ $Value == 13 ]]
     then
         echo "====CODE READING BEGINS===="
-        cat ../app/lab-five/heap.c
+        cat ./app/lab-five/heap.c
         echo "====EXECUTION BEGINS===="
-        ./lab-five/heap
+        ./out/lab-five/heap
     elif [[ $Value == 14 ]]
     then
         echo "====CODE READING BEGINS===="
-        cat ../app/lab-six/expo.c
+        cat ./app/lab-six/expo.c
         echo "====EXECUTION BEGINS===="
-        ./lab-six/expo
+        ./out/lab-six/expo
     elif [[ $Value == 15 ]]
     then
         echo "====CODE READING BEGINS===="
-        cat ../app/lab-six/max-min.c
+        cat ./app/lab-six/max-min.c
         echo "====EXECUTION BEGINS===="
-        ./lab-six/max-min
+        ./out/lab-six/max-min
     
     elif [[ $Value == 16 ]]
     then
         echo "====CODE READING BEGINS===="
-        cat ../app/lab-seven/act-selector.c
+        cat ./app/lab-seven/act-selector.c
         echo "====EXECUTION BEGINS===="
-        ./lab-seven/act-selector
+        ./out/lab-seven/act-selector
     elif [[ $Value == 17 ]]
     then
         echo "====CODE READING BEGINS===="
-        cat ../app/lab-seven/huffman.c
+        cat ./app/lab-seven/huffman.c
         echo "====EXECUTION BEGINS===="
-        ./lab-seven/huffman
+        ./out/lab-seven/huffman
     elif [[ $Value == 18 ]]
     then
         echo "====CODE READING BEGINS===="
-        cat ../app/lab-seven/job.c
+        cat ./app/lab-seven/job.c
         echo "====EXECUTION BEGINS===="
-        ./lab-seven/job
+        ./out/lab-seven/job
     elif [[ $Value == 19 ]]
     then
         echo "====CODE READING BEGINS===="
-        cat ../app/lab-seven/knapsack.c
+        cat ./app/lab-seven/knapsack.c
         echo "====EXECUTION BEGINS===="
-        ./lab-seven/knapsack
+        ./out/lab-seven/knapsack
     fi
     echo " ================================ "
     echo " "

@@ -1,0 +1,21 @@
+{
+  "name": "priyansu-rath-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "./app/compile.sh",
+    "start": "./out/execute.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyansuhub/daa-lab-pr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyansuhub/daa-lab-pr/issues"
+  },
+  "homepage": "https://github.com/priyansuhub/daa-lab-pr#readme"
+}
