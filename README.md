@@ -1,15 +1,11 @@
 # Test
 
-    - Daa Lab Codes!
+- Daa Lab Codes!
 
 ## To compile
 
-    ```
-        npm run build
-    ```
+    npm run build
 
 ## To execute
 
-    ```
-        npm start
-    ```
+    npm start
