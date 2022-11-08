@@ -23,3 +23,6 @@ gcc -o ./out/lab-one/searching ./app/lab-one/searching.c
  gcc -o ./out/lab-seven/huffman ./app/lab-seven/huffman.c
  gcc -o ./out/lab-seven/job ./app/lab-seven/job.c
  gcc -o ./out/lab-seven/knapsack ./app/lab-seven/knapsack.c
+
+ gcc -o ./out/lab-nine/lcs-table ./app/lab-nine/lcs-table.c
+ gcc -o ./out/lab-nine/mcm ./app/lab-nine/mcm
